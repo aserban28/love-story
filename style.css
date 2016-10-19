@@ -1,0 +1,46 @@
+body {
+  height:100%;
+  width:100%;
+  font-family:"Trebuchet MS", "Georgia", sans-serif;
+  text-align:center;
+  font-size:15px;
+ 
+}
+
+.main {
+  background-image:url("http://www.wed-in-seychelles.com/upload/attachments/1_3_AtA.jpg");
+  background-position:center;
+  background-size:cover;
+  margin:80px 20px 40px 20px;
+  text-shadow: 0 2px #000000;  
+}
+
+
+.main h1 {
+  padding:50px 0px 40px 100px;
+  color:#FFFFFF;
+  font-family: 'Pacifico', cursive;
+  position: relative;
+  bottom: 10px;
+}
+
+h3 {
+  color:#FFFFFF;
+  padding-left:100px;
+  font-family: 'Nothing You Could Do', cursive;
+  font-size: 30px;
+ 
+}
+
+h4 {
+  padding:150px;
+  margin-right:80px;
+  font-family:'Amatic SC', cursive;
+  font-size:45px;
+}
+
+footer {
+  color:DarkSlateGray;
+  font-family: 'Dawning of a New Day', cursive;
+  font-size: 2rem;
+}
